@@ -1,0 +1,25 @@
+.jumbotron {
+	background: url(throw5.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 400px;
+	color: #FFFFFF;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+}
+#logo {
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	transition: 0.4s;
+}
+#logo:hover {
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+}
+.mainpics {
+	max-width: 100%;
+}
